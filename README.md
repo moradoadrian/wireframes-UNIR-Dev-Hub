@@ -57,7 +57,7 @@ Pantallas de bienvenida, inicio de sesión y registro de cuenta.
 <details>
   <summary><strong>3.1 - Clases Online / Foro</strong></summary>
   <br>
-  <p>Muestra una transmisión en vivo (clase) junto con un chat interactivo para los estudiantes.</p>
+  <p>Cursos y tutoriales: ofrece una clase en línea en vivo sobre "Experiencia e Interfaz de Usuario (UX/UI)" con chat en tiempo real y un temario. Además, la página contará con un agente de IA que aprende de las sesiones en vivo y recopila información clave que los usuarios podrán consultar en cualquier momento.</p>
   <img width="800" alt="4- Foro" src="https://github.com/user-attachments/assets/4cbd4825-a7e3-4f05-bba6-3151ff5d5ffc" />
 </details>
 
